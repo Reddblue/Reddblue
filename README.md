@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Reddblue
-I am a 16 year old fullstack developer & penetration tester. I also create content and do graphic design.
+I am a fullstack developer & penetration tester. I also create content and do graphic design.
 
 ## 👀 About Me
 I am an aspiring developer that started playing around in the programming world ever since I was 12. Now, I do a little bit of everything, from fullstack development to penetration testing (ethical hacking). Other than programming, I play games, do content creation, 3D modelling, and study.
