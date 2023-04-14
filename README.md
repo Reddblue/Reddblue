@@ -1,12 +1,12 @@
 ## 👋 Hi, I’m @Reddblue
-I am a fullstack developer & penetration tester. I also create content and do graphic design.
+I am a fullstack developer & penetration tester. On the side, I like trading & investing. I also enjoy creating content and do graphic design.
 
 ## 👀 About Me
-I am an aspiring developer that started playing around in the programming world ever since I was 12. Now, I do a little bit of everything, from fullstack development to penetration testing (ethical hacking). Other than programming, I play games, do content creation, 3D modelling, and study.
+I am an aspiring developer that started playing around in the programming world ever since I was 12. Now, I do a little bit of everything, from fullstack development to penetration testing (ethical hacking). Other than programming, I play games, learn different languages, focus on self improvement, and study.
 
 ## 🌱 Main Goals
-Right now I am focusing on mastering front-end development, since I have no prior job experience and it is the more common and safer option for junior developers.
-Because of that, I have put aside pentesting and my other hobbies for now. Right now, my main goals are to try and make professional projects and a job-ready portfolio.
+Right now I am focusing in data science, especially in algorithmic trading. My goal is to develop an algo that can trade the markets with an accuracy of 60% and can also automatically manage risk by adjusting trade positions & other factors.
+Because of that, I have put aside pentesting and my other hobbies for now.
 
 ## 📫 Contact Me
 You can contact me via Discord (where I am most active): Reddblue#1649 (or Reddblue#0001)
