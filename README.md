@@ -9,5 +9,5 @@ Right now I am focusing in data science, especially in algorithmic trading. My g
 Because of that, I have put aside pentesting and my other hobbies for now.
 
 ## 📫 Contact Me
-You can contact me via Discord (where I am most active): Reddblue#1649 (or Reddblue#0001)
+You can contact me via Discord (where I am most active): reddblue
 For business inquiries and job offers, please contact me via email at reddblue50@gmail.com
